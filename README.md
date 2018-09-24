@@ -1,0 +1,1 @@
+# elastic subdomain takeover check
